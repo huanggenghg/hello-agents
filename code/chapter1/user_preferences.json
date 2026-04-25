@@ -1,0 +1,25 @@
+{
+  "user_id": "default",
+  "preferences": {
+    "attraction_types": [
+      "篮球",
+      "骑行"
+    ],
+    "budget": {
+      "min": 0,
+      "max": null
+    },
+    "transport_mode": null,
+    "activity_level": null,
+    "preferred_time": null,
+    "group_size": null,
+    "special_requirements": []
+  },
+  "history": {
+    "searched_cities": [],
+    "accepted_recommendations": [],
+    "rejected_recommendations": []
+  },
+  "inferred_preferences": [],
+  "last_updated": "2026-04-25T11:17:25.845404"
+}
